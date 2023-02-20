@@ -1,4 +1,4 @@
-facebook.com, 3158808487673225, RESELLER, c3e20eee3f780d68
+facebook.com, 3158808487673225, DIRECT, c3e20eee3f780d68
 google.com, pub-6592039406265258, DIRECT, f08c47fec0942fa0
 applovin.com, a1d74cee0baaf4e22cc41ce5926a3d5a, DIRECT
 pubmatic.com, 5005114, RESELLER, 5d62403b186f2ace
